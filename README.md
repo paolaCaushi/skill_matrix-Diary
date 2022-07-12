@@ -28,3 +28,8 @@ Day 4, 07.07.2022:
 Day 5, 08.07.2022:
 -Fixed some errors in:
   -Seeds file, where I had problem showing data in the tables.
+  
+  Date: 12.07.2022
+-Inserted new data to the tables.
+-Faced problems in creating the second page, where the new data (questions) will be shown.
+-Faced problems in the routing, dividing questions in the two pages and calculating the gathered score...still trying to fix them! 
