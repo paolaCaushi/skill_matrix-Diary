@@ -33,3 +33,11 @@ Day 5, 08.07.2022:
 -Inserted new data to the tables.
 -Faced problems in creating the second page, where the new data (questions) will be shown.
 -Faced problems in the routing, dividing questions in the two pages and calculating the gathered score...still trying to fix them! 
+
+Date: 13.07.2022
+-Added "log out" Button in every page, but it caused some problems 
+ in the code, it doesn't show the first page (this change has not been pushed).
+-Trying to fix the calculation of the final points (it shows NaN).
+
+Date: 14.07.2022
+-Final Day, presentation of the project. Fixing last minute errors.
